@@ -54,3 +54,8 @@ Abaixo estão as funcionalidades principais do MVP (Minimum Viable Product), esc
 
 - **USO1 - Abertura de conta:** O visitante irá preencher dados como Nome de Usuário, Senha e E-mail.
 - **USO2 - Confirmação de E-mail:** O visitante irá precisar autenticar a conta acessando o E-mail de cadastro e confirmando através da mensagem enviada pela plataforma durante a finalização do processo de preenchimento de dados.
+
+# 🕹️ Épico 2: Uso da Plataforma
+
+- **US03 - Criação de torneios:** O usuário poderá criar campeonatos decidindo primeiro qual jogo será o tema dá competição (LoL, Valorant e CS), escolher o formato de chaves das equipes e irá preencher um formulário para deixer descrito as regras e premiações do torneio.
+- **US04 - Inscrição em torneios:**
