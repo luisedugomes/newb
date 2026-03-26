@@ -27,5 +27,5 @@ Abaixo estão as funcionalidades principais do MVP (Minimum Viable Product), esc
 
 - **US03 - Criação de torneios:** O usuário poderá criar campeonatos decidindo primeiro qual jogo será o tema dá competição (LoL, Valorant e CS), escolher o formato de chaves das equipes e irá preencher um formulário para deixer descrito as regras e premiações do torneio.
 - **US04 - Criação de Equipes:** O usuário poderá criar equipes com um número máximo de 10 jogadores por equipes.
-- **USO4 - Inscrição de Torneios:** O usuário que criou/é líder da equipe participante, poderá se registrar em campeonatos pré-definindo os seus jogadores (registrados na equipe escolhida).
-- **USO05 - Inscrição em Equipes:** O usuário poderá se candidatar em equipes ou aceitar convites encaminhados por seus líderes/criadores.
+- **US05 - Inscrição de Torneios:** O usuário que criou/é líder da equipe participante, poderá se registrar em campeonatos pré-definindo os seus jogadores (registrados na equipe escolhida).
+- **US06 - Inscrição em Equipes:** O usuário poderá se candidatar em equipes ou aceitar convites encaminhados por seus líderes/criadores.
