@@ -1,0 +1,22 @@
+{
+  "name": "arenarank",
+  "version": "1.0.0",
+  "description": "A Arenarank é uma plataforma web que organiza torneios/campeonatos amadores de jogos digitais específicos (Lol,Valorant e CS:G0 2).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^4.0.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
