@@ -16,7 +16,7 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
  ## 🎨 Design
 
 - [🎨 Design System](./docs/design-system.md) - Identidade visual
-- [🖼️ Protótipo no Figma](https://www.figma.com/file/a1VDbO1aNfZyulQPxT99OE/beleza-em-dia?node-id=3%3A80) - Telas interativas da aplicação.
+- [🖼️ Protótipo no Stitch](https://stitch.withgoogle.com/u/2/projects/1097575403078761773?pli=1) - Telas interativas da aplicação.
 
  ## 💻 Tecnologias e Dependências
 
