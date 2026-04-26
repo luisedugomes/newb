@@ -17,6 +17,9 @@ As variáveis de cor do framework foram escolhidas para induzir o usuário se se
 -  Ice White `#E0E0E6` 
 -  Live Red `#FF003C` 
 -  Tactical Purple `#B026FF`
+-  Grayish Blue `#849395`
+-  Dark Bluish Gray `#4a4a5a`
+-  Cool Charcoal Gray `#1a1a20`
 
 ### 3. Tipografia
 
