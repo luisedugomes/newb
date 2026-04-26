@@ -58,10 +58,13 @@ Breve explicação das tabelas principais:
 - **Moderador:**
   - Jogo: O moderador irá escolher o jogo tema do cameponato.
   - Chaves: O moderador irá ordenar as chaves baseado nas equipes registradas e no formato das regras criadas pelo mesmo.
-- **Jogador:**
-  - Conta: Nome dá conta do jogo selecionado para o torneio.
-  - Equipe: Nome da equipe registrada ou selecionada caso o jogador seje o líder.
+- **Equipe:**
+  - Id: Identificador único gerado pelo JSON Server (String ou Hash).
+  - Nome: Nome da Equipe.
+  - Líder: Nome do usuário criador do time.
+  - Jogadores (1 ao 5): Jogadores escalados para os jogos.
 - **Torneio:**
+  - Id: Identificador único gerado pelo JSON Server (String ou Hash).
   - Equipes: Nomes das equipes registradas
   - Horário: Impressão de data e horário do começo do torneio.
   - Posição: Colocamento das equipes dentro da chave.
