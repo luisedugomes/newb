@@ -8,9 +8,9 @@ Abaixo está o Diagrama Entidade-Relacionamento (DER) que representa a estrutura
 
 ```mermaid
 erDiagram
-Usuário ||--o{ Jogador : "se inscreve/cria uma equipe"
+Usuário ||--o{ Equipe : "se inscreve/cria uma equipe"
 Usuário ||--o{ Moderador : "cria o torneio"
-Jogador ||--o{ Torneio : "se inscreve no torneio"
+Equipe ||--o{ Torneio : "se inscreve no torneio"
 Moderador ||--o{ Torneio : "administra o torneio"
 Usuário {
 string id PK "Gerado automaticamente"
@@ -20,10 +20,15 @@ string senha
 string equipe "Se registra/cria"
 string torneio "Se registra/cria"
 }
-Jogador{
+Equipe{
 string id PK
-string conta "Nome da conta do jogo tema"
-string equipe "Equipe selecionada/registrada" 
+string nome "Nome da Equipe"
+string líder "Usuário líder/criador da equipe."
+string jogador1 "Nome da conta do jogo tema" 
+string jogador2
+string jogador3
+string jogador4
+string jogador5
 }
 Moderador {
 string id PK
@@ -35,7 +40,7 @@ string regulamento
 }
 Torneio {
 string id PK
-string equipes "Nome da equipes"
+string equipe "Nome da equipe"
 string jogo
 string horário "Hora do começo do torneio"
 string posição "Colocação da equipe nas chaves"
